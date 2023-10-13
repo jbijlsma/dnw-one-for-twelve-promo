@@ -2,6 +2,8 @@
 
 Mobile iOS / Android App of the popular Dutch TV game show 'Twee voor 12'. You will get 12 questions. The first letters of the answers form a word, but the letters are not yet in the right order. After answering the questions, you are allowed to ask where in the word a letter belongs. The goal is to guess the word as fast as possible (i.e asking the minimum number of letters).
 
+Apple App Store: https://apps.apple.com/us/app/1-for-12/id6468839095
+
 <p float="left" align="middle">
   <img src="screenshots/1.png" width="32%">
   <img src="screenshots/2.png" width="32%">
