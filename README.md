@@ -31,6 +31,10 @@ These App screenshots were made using Screenshots Pro (https://screenshots.pro/)
 - Support for dark- and light mode
 - Sign in using either your Google- or Apple Account
 
+# Privacy Policy
+
+https://jbijlsma.github.io/dnw-one-for-twelve-promo/
+
 # Tech Stack
 
 The iOS / Android App was built using Google Flutter. For the backend - the game API - multiple versions were written in NodeJs / Typescript and .NET 7 / C#. The backend APIs can be deployed to various Serverless Platforms: AWS Lambda, Google Cloud Serverless and Microsoft Azure Functions.
